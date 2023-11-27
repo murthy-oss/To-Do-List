@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335110719766",
+    "project_id": "todov-3418f",
+    "storage_bucket": "todov-3418f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335110719766:android:c6b9a14a7efc8e0ceae837",
+        "android_client_info": {
+          "package_name": "com.example.todov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdWVhjSe_lCdiNAmmhJfZw2EcfS5Km6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
